@@ -1,0 +1,6 @@
+Abstract serve para fazer as funções e ter uma facilidade maior na Main
+
+Para aplicar o Abstract precisa de um arquivo separado e nele aplicar "abstract" na declaração
+da classe e logo em seguida o nome da função.
+
+Na classe de fazer as funções, aplicar "implements" na classe principal.
